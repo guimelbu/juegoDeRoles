@@ -1,0 +1,10 @@
+User1;Mago;0:25;3;60;125:
+User2;Mago;0:34;1;60;75:
+User3;Guerrero;0:35;0;30;10:
+User4;Sacerdote;0:0;0;0;30:
+User5;Sacerdote;0:38;4;80;160:
+User6;Sacerdote;0:31;4;50;110:
+User7;Mago;0:19;0;30;10:
+User8;Mago;0:24;3;50;115:
+User10;Mago;0:23;3;60;125:
+User2;Mago;0:55;2;50;80:
